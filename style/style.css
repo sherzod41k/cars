@@ -4,6 +4,9 @@
     font-family: arial;
     box-sizing: border-box;
 }
+body {
+    background: purple;
+}
 
 a {
     text-decoration: none;
